@@ -130,6 +130,7 @@ class ComposerStaticInite5e0d3bb0bac729826d3235af2565e37
         'Classic_SEO\\Admin\\Serp_Preview' => __DIR__ . '/../..' . '/includes/admin/class-serp-preview.php',
         'Classic_SEO\\Admin\\Watcher' => __DIR__ . '/../..' . '/includes/admin/watcher/class-watcher.php',
         'Classic_SEO\\Admin_Bar_Menu' => __DIR__ . '/../..' . '/includes/admin/class-admin-bar-menu.php',
+        'Classic_SEO\\BeaverBuilder\\BeaverBuilder' => __DIR__ . '/../..' . '/includes/modules/beaverbuilder/class-beaverbuilder.php',
         'Classic_SEO\\CLI\\Commands' => __DIR__ . '/../..' . '/includes/cli/class-commands.php',
         'Classic_SEO\\CMB2' => __DIR__ . '/../..' . '/includes/class-cmb2.php',
         'Classic_SEO\\Common' => __DIR__ . '/../..' . '/includes/class-common.php',
